@@ -1,18 +1,19 @@
 {
   "streams": [
     {
-      "formValues": {
-        "title": "stream",
-        "description": "my stream"
-      },
+      "title": "stream",
+      "description": "my stream",
       "id": 1
     },
     {
-      "formValues": {
-        "title": "My stream",
-        "description": "Great stream"
-      },
+      "title": "My stream",
+      "description": "Great stream",
       "id": 2
+    },
+    {
+      "title": "Gaming",
+      "description": "Gaming stream",
+      "id": 3
     }
   ]
 }
