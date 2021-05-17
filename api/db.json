@@ -1,3 +1,11 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "formValues": {
+        "title": "stream",
+        "description": "my stream"
+      },
+      "id": 1
+    }
+  ]
 }
