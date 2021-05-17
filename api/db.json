@@ -6,6 +6,13 @@
         "description": "my stream"
       },
       "id": 1
+    },
+    {
+      "formValues": {
+        "title": "My stream",
+        "description": "Great stream"
+      },
+      "id": 2
     }
   ]
 }
