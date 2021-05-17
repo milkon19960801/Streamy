@@ -14,6 +14,18 @@
       "title": "Gaming",
       "description": "Gaming stream",
       "id": 3
+    },
+    {
+      "title": "Dota2",
+      "description": "Playing Dota2",
+      "userId": "109173731435856786545",
+      "id": 4
+    },
+    {
+      "title": "Dota2",
+      "description": "Playing Dota2",
+      "userId": "109173731435856786545",
+      "id": 5
     }
   ]
 }
