@@ -16,15 +16,13 @@
       "id": 3
     },
     {
-      "title": "Dota2",
-      "description": "Playing Dota2",
-      "userId": "109173731435856786545",
+      "title": "Dota1",
+      "description": "Playing Dota1",
       "id": 4
     },
     {
-      "title": "GTA",
-      "description": "GTA  game stream",
-      "userId": "109173731435856786545",
+      "title": "GTA2",
+      "description": "GTA2  game stream",
       "id": 7
     }
   ]
